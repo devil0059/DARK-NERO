@@ -7,7 +7,7 @@
    "env": {
   
  "OWNER_NAME" :{
-    "description" : "enter you name",
+    "description" : "Rx",
     "required" : true,
   "value" : "KAVEESHA "
     },
@@ -17,7 +17,7 @@
 "ALIVE_MSG" :{
     "description" : "enter you msg",
     "required" : true,
-  "value" : "HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖"
+  "value" : "HI I'M  ⚜️𝘕𝘌𝘙𝘖"
     },
      
      "ALIVE_LOGO" :{
